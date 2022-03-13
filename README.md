@@ -11,18 +11,18 @@ Code examples:
 ```js
 var Subs = require('subreddit-db')
 
-console.log(Subs.NoSlash)
+console.log(Subs.NoSlash())
 ```
 Output: memes (RandomSubReddit)
 ```js
 var Subs = require('subreddit-db')
 
-console.log(Subs.WithSlash)
+console.log(Subs.WithSlash())
 ```
 Output: r/memes (r/RandomSubReddit)
 ```js
 var Subs = require('subreddit-db')
 
-console.log(Subs.Link)
+console.log(Subs.Link())
 ```
 Output: https://www.reddit.com/r/memes (https://www.reddit.com/r/RandomSubReddit)
