@@ -1,6 +1,6 @@
 {
   "name": "subreddit-db",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "A database with around 2000 popular subreddits. Easy to use",
   "main": "index.js",
   "scripts": {
