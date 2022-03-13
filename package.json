@@ -1,0 +1,26 @@
+{
+  "name": "subreddit-db",
+  "version": "1.0.0",
+  "description": "A database with around 2000 popular subreddits. Easy to use",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InterplexSoftworks/reddit-db-npm.git"
+  },
+  "keywords": [
+    "reddit",
+    "subreddit",
+    "easy",
+    "database",
+    "json"
+  ],
+  "author": "InterplexSoftworks@Github",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InterplexSoftworks/reddit-db-npm/issues"
+  },
+  "homepage": "https://github.com/InterplexSoftworks/reddit-db-npm#readme"
+}
